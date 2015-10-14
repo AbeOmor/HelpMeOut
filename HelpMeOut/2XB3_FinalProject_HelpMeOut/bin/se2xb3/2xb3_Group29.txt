@@ -1,0 +1,20 @@
+SFWR ENG 2XB3
+Osarumwense Abraham Omorogbe
+Student #:1310163
+Genevieve Okon
+Student #:1315579
+Jay Nguyen
+Student #:1327828
+
+It is 10th of April and this work is our group work, all used classes are sited.
+
+Major Decisions
+
+HMOUserInterface.java
+Uses an external library called JGoodies
+This has methods can can refresh the database based on the request from the controller.
+these methods only edit the instance of the database, they don't edit the actually database.
+
+HMOController.java
+When a button is pressed it called methods in the view to update the model/view accordingly.
+
